@@ -2,7 +2,7 @@ import openai
 import json
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "ENTER YOUR OPEN_AI API HERE"
 
 # Set up the prompt and parameters
 prompt = "Hello, can you please explain quantum computing?"
